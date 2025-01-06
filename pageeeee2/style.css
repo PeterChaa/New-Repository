@@ -47,9 +47,10 @@
   
   .btn:hover {
     transform: translateY(-10px);
-    background-image:url(wallflesh.jpeg)
-    color: var(--clir-light)
+    background-image:url(New-Repository/pageeeee2/wallflesh.jpeg)
+    color var(--clir-light);
     /* background-color: var(--clr-accent);
     color: var(--clr-light); */
   }
+
   
