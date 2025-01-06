@@ -1,8 +1,9 @@
 :root {
     --clr-dark: #070a12;
-    --clr-light: #f9f9fb;
-    --clr-accent: #f43f70;
-    --clr-rgba: rgba(244, 63, 112, 0.2);
+    --clr-light: #ec9c9c;
+    --clr-accent: #000000;
+    --clr-rgba: rgba(76, 28, 40, 0.754);
+
   }
   
   *,
@@ -42,15 +43,14 @@
     transition-timing-function: ease;
     transition-delay: 0s;
   
-    /* transition: all 0.3s; */
+    /* transition: transform: 0.3s, backround-color 0.3s, color 0.3s */
   }
   
   .btn:hover {
     transform: translateY(-10px);
-    background-image:url(New-Repository/pageeeee2/wallflesh.jpeg)
-    color var(--clir-light);
-    /* background-color: var(--clr-accent);
-    color: var(--clr-light); */
+    color: var(--clr-dark);
+    background-image: url(wallflesh.jpeg)
+    
   }
 
   
