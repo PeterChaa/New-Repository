@@ -46,8 +46,8 @@
   }
   
   .btn:hover {
-    transform: translateY(10000px);
-    transform: translateZ(25000px)
+    transform: translateY(100px);
+    transform: translateZ(100px)
     /* background-color: var(--clr-accent);
     color: var(--clr-light); */
   }
