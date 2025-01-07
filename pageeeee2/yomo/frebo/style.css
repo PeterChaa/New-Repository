@@ -1,16 +1,4 @@
-:root {
-    --clr-dark: #070a12;
-    --clr-light: #31074a;
-    --clr-accent: #000000;
-    --clr-rgba: rgba(65, 1, 28, 0.879);
 
-  }
-  
-  *,
-  *::before,
-  *::after {
-    box-sizing: border-box;
-  }
   
   .btn {
 
@@ -27,6 +15,6 @@
   
   .btn:hover {
     transform: translateY(-10px);
-    color: var(--clr-dark);
-    background-image: url(sn.png)
+   background-image: url(sn.png);
+
   }
